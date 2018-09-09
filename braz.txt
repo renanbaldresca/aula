@@ -1,4 +1,5 @@
 
+<<<<<<< Updated upstream
 
 não deixe nunca de dizer da viadagem do vinicius porque ele é mesmo um baitola
 
@@ -13,3 +14,9 @@ algo que todo mundo concorda.
 
 algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.
 
+=======
+algo que todo mundo concorda.
+
+
+algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.algo que todo mundo concorda.
+>>>>>>> Stashed changes
